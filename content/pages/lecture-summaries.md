@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides summaries of the weekly lectures of the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6
 ---
@@ -76,7 +80,7 @@ Bacterial differentiation in response to starvation and cell signaling
 Lab Visit
 {{< tdclose >}}
 {{< tdopen >}}
-{{< anchor "lec_sum5" >}}{{< /anchor >}}Lab Visit. We will visit the [Amon lab at MIT](http://amonlab.scripts.mit.edu/). We will measure the sizes of yeast cells and look at their proliferation state and ability to differentiate. Samples will be prepared ahead of time, and the students will help with the analysis of the results and the interpretations. We will also observe techniques discussed during in class. Alternatively, if the students prefer, we could all attend the MIT Biology colloquium seminar on Dec 4th by Joanna Wysocka on the subject of "Epigenetic Regulation of Differentiation and Development."
+{{< anchor "lec_sum5" >}}{{< /anchor >}}Lab Visit. We will visit the [Amon lab at MIT](http://amonlab.scripts.mit.edu/). We will measure the sizes of yeast cells and look at their proliferation state and ability to differentiate. Samples will be prepared ahead of time, and the students will help with the analysis of the results and the interpretations. We will also observe techniques discussed during in class. Alternatively, if the students prefer, we could all attend the MIT Biology colloquium seminar on Dec 4{{< sup "th" >}} by Joanna Wysocka on the subject of "Epigenetic Regulation of Differentiation and Development."
 {{< tdclose >}}
 
 {{< trclose >}}
