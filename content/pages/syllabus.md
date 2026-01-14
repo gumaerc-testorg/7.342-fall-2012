@@ -124,7 +124,7 @@ Bacterial differentiation in response to starvation and cell signaling
 Lab Visit
 {{< tdclose >}}
 {{< tdopen >}}
-Visit the {{% resource_link "6236d573-8319-4233-b047-e9bb77e15d95" "Amon Lab" %}} at MIT
+Visit the [Amon Lab](http://amonlab.scripts.mit.edu/) at MIT
 {{< tdclose >}}
 
 {{< trclose >}}

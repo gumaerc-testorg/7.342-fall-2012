@@ -59,9 +59,9 @@ Regulation of cell growth by the composition of its environment
 {{< tdopen >}}
 
 
-Johnston, G. C., C. W. Ehrhardt, et al. "{{% resource_link "71495083-7d91-4464-841e-780f3615a34f" "Regulation of Cell Size in the Yeast _Saccharomyces cerevisiae_" %}}." _Journal of Bacteriology_ 137, no. 1 (1979): 1–5.
+Johnston, G. C., C. W. Ehrhardt, et al. "[Regulation of Cell Size in the Yeast _Saccharomyces cerevisiae_](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC218410/)." _Journal of Bacteriology_ 137, no. 1 (1979): 1–5.
 
-Zetterberg, A., W. Engstrom, et al. "{{% resource_link "f8b3cd22-189e-4d2a-b0b8-f20e4b74655b" "The Relative Effects of Different Types of Growth Factors on DNA Replication, Mitosis, and Cellular Enlargement" %}}." _Cytometry_ 5, no. 4 (1984): 368–75.
+Zetterberg, A., W. Engstrom, et al. "[The Relative Effects of Different Types of Growth Factors on DNA Replication, Mitosis, and Cellular Enlargement](http://www.ncbi.nlm.nih.gov/pubmed/6380994)." _Cytometry_ 5, no. 4 (1984): 368–75.
 
 
 {{< tdclose >}}
@@ -83,9 +83,9 @@ Identification and functional analysis of cell cycle components
 {{< tdopen >}}
 
 
-Evans, T., E. T. Rosenthal, et al. "{{% resource_link "b16d890f-af57-4227-832b-56bd48ad547b" "Cyclin: A Protein Specified by Maternal mRNA in Sea Urchin Eggs That is Destroyed at Each Cleavage Division" %}}." _Cell_ 33, no. 2 (1983): 389–96.
+Evans, T., E. T. Rosenthal, et al. "[Cyclin: A Protein Specified by Maternal mRNA in Sea Urchin Eggs That is Destroyed at Each Cleavage Division](http://dx.doi.org/10.1016/0092-8674(83)90420-8)." _Cell_ 33, no. 2 (1983): 389–96.
 
-Hartwell, L. H. "{{% resource_link "6ce67cba-8b63-43d5-a955-6113b77e1df3" "Sequential Function of Gene Products Relative to DNA Synthesis in the Yeast Cell Cycle" %}}." _Journal of Molecular Biology_ 104, no. 4 (1976): 803–17.
+Hartwell, L. H. "[Sequential Function of Gene Products Relative to DNA Synthesis in the Yeast Cell Cycle](http://dx.doi.org/10.1016/0022-2836(76)90183-2)." _Journal of Molecular Biology_ 104, no. 4 (1976): 803–17.
 
 
 {{< tdclose >}}
@@ -107,9 +107,9 @@ Bacterial differentiation in response to starvation and cell signaling
 {{< tdopen >}}
 
 
-Grossman, A. D., and R. Losick. "{{% resource_link "3197a64f-c416-450e-a4ca-9dba52f1b606" "Extracellular Control of Spore Formation in _Bacillus subtilis_" %}}." _Proceedings of the National Academy of Sciences_ 85, no. 12 (1998): 4369–73.
+Grossman, A. D., and R. Losick. "[Extracellular Control of Spore Formation in _Bacillus subtilis_](http://www.pnas.org/content/85/12/4369.short)." _Proceedings of the National Academy of Sciences_ 85, no. 12 (1998): 4369–73.
 
-Hahn, J., B. Maier, et al. "{{% resource_link "293a87ff-331f-48cc-acbc-da002c9bf09a" "Transformation Proteins and DNA Uptake Localize to the Cell Poles in _Bacillus subtilis_" %}}." _Cell_ 122, no. 1 (2005): 59–71.
+Hahn, J., B. Maier, et al. "[Transformation Proteins and DNA Uptake Localize to the Cell Poles in _Bacillus subtilis_](http://dx.doi.org/10.1016/j.cell.2005.04.035)." _Cell_ 122, no. 1 (2005): 59–71.
 
 
 {{< tdclose >}}
@@ -149,9 +149,9 @@ Genetic regulation of cell fate decision-making in yeast
 {{< tdopen >}}
 
 
-Deutschbauer, A. M., and R. W. Davis. "{{% resource_link "caf2a9df-9fdd-4075-a1c1-5cb4a118b874" "Quantitative Trait Loci Mapped to Single-Nucleotide Resolution in Yeast" %}}." _Nature Genetics_ 37 (2005): 1333–40.
+Deutschbauer, A. M., and R. W. Davis. "[Quantitative Trait Loci Mapped to Single-Nucleotide Resolution in Yeast](http://dx.doi.org/10.1038/ng1674)." _Nature Genetics_ 37 (2005): 1333–40.
 
-Hongay, C. F., P. L. Grisafi, et al. "{{% resource_link "fbf4c871-41de-43a2-b2a6-de4af67a447a" "Antisense Transcription Controls Cell Fate in _Saccharomyces cerevisiae_" %}}." _Cell_ 127, no. 4 (2006): 735–45.
+Hongay, C. F., P. L. Grisafi, et al. "[Antisense Transcription Controls Cell Fate in _Saccharomyces cerevisiae_](http://dx.doi.org/10.1016/j.cell.2006.09.038)." _Cell_ 127, no. 4 (2006): 735–45.
 
 
 {{< tdclose >}}
@@ -173,9 +173,9 @@ Growth and proliferation promoting pathways I: Ras
 {{< tdopen >}}
 
 
-Broek, D., T. Toda, et al. "{{% resource_link "80e81dd9-5121-4b83-addc-ae636fe2d631" "_The S._ _cerevisiae_ CDC25 Gene Product Regulates the RAS/Adenylate Cyclase Pathway" %}}." _Cell_ 48, no. 5 (1987): 789–99.
+Broek, D., T. Toda, et al. "[_The S._ _cerevisiae_ CDC25 Gene Product Regulates the RAS/Adenylate Cyclase Pathway](http://dx.doi.org/10.1016/0092-8674(87)90076-6)." _Cell_ 48, no. 5 (1987): 789–99.
 
-Simon, M. A., D. D. Bowtell, et al. "{{% resource_link "4e4355a8-e11e-46aa-bc4a-021b357c9fce" "Ras1 and a Putative Guanine Nucleotide Exchange Factor Perform Crucial Steps in Signaling by the Sevenless Protein Tyrosine Kinase" %}}." _Cell_ 67, no. 4 (1991): 701–16.
+Simon, M. A., D. D. Bowtell, et al. "[Ras1 and a Putative Guanine Nucleotide Exchange Factor Perform Crucial Steps in Signaling by the Sevenless Protein Tyrosine Kinase](http://dx.doi.org/10.1016/0092-8674(91)90065-7)." _Cell_ 67, no. 4 (1991): 701–16.
 
 
 {{< tdclose >}}
@@ -197,9 +197,9 @@ Growth and proliferation promoting pathways II: TOR
 {{< tdopen >}}
 
 
-Loewith, R., E. Jacinto, et al. "{{% resource_link "1a934aa6-8d62-4801-9a41-a4c6b5163b1c" "Two TOR Complexes, Only One of which Is Rapamycin Sensitive, Have Distinct Roles in Cell Growth Control" %}}." _Molecular Cell_ 10, no. 3 (2002): 457–68.
+Loewith, R., E. Jacinto, et al. "[Two TOR Complexes, Only One of which Is Rapamycin Sensitive, Have Distinct Roles in Cell Growth Control](http://dx.doi.org/10.1016/S1097-2765(02)00636-6)." _Molecular Cell_ 10, no. 3 (2002): 457–68.
 
-Korolchuk, V. I., S. Saiki, et al. "{{% resource_link "0737c6f3-2470-429d-a317-0c7d61538564" "Lysosomal Positioning Coordinates Cellular Nutrient Responses" %}}." _Nature Cell Biology_ 13 (2011): 453–60.
+Korolchuk, V. I., S. Saiki, et al. "[Lysosomal Positioning Coordinates Cellular Nutrient Responses](http://dx.doi.org/10.1038/ncb2204)." _Nature Cell Biology_ 13 (2011): 453–60.
 
 
 {{< tdclose >}}
@@ -221,9 +221,9 @@ Nutrient control of entry into sporulation
 {{< tdopen >}}
 
 
-Matsumoto, K., I. Uno, et al. "{{% resource_link "b191a77d-cef9-4fbb-8f9e-92a1f80b22f2" "Initiation of Meiosis in Yeast Mutants Defective in Adenylate Cyclase and Cyclic AMP-Dependent Protein Kinase" %}}." _Cell_ 32, no. 2 (1983): 417–23.
+Matsumoto, K., I. Uno, et al. "[Initiation of Meiosis in Yeast Mutants Defective in Adenylate Cyclase and Cyclic AMP-Dependent Protein Kinase](http://dx.doi.org/10.1016/0092-8674(83)90461-0)." _Cell_ 32, no. 2 (1983): 417–23.
 
-Sagee, S., A. Sherman, et al. "{{% resource_link "6e625fa2-a676-48a7-91b0-606a6c00acc7" "Multiple and Distinct Activation and Repression Sequences Mediate the Regulated Transcription of IME1, a Transcriptional Activator of Meiosis-Specific Genes in _Saccharomyces cerevisiae_" %}}." _Molecular and Cellular Biology_ 18, no. 4 (1998): 1985–95.
+Sagee, S., A. Sherman, et al. "[Multiple and Distinct Activation and Repression Sequences Mediate the Regulated Transcription of IME1, a Transcriptional Activator of Meiosis-Specific Genes in _Saccharomyces cerevisiae_](http://www.ncbi.nlm.nih.gov/pubmed/9528770)." _Molecular and Cellular Biology_ 18, no. 4 (1998): 1985–95.
 
 
 {{< tdclose >}}
@@ -245,9 +245,9 @@ Biofilm formation by yeast and bacteria
 {{< tdopen >}}
 
 
-Lopez, D., M. A. Fischbach, et al. "{{% resource_link "fff5ba4f-4f8a-4a52-9322-69e75459fc79" "Structurally Diverse Natural Products that Cause Potassium Leakage Trigger Multicellularity in _Bacillus subtilis_" %}}." _Proceedings of the National Academy of Sciences_ 106, no. 1 (2009): 280–5.
+Lopez, D., M. A. Fischbach, et al. "[Structurally Diverse Natural Products that Cause Potassium Leakage Trigger Multicellularity in _Bacillus subtilis_](http://dx.doi.org/10.1073/pnas.0810940106)." _Proceedings of the National Academy of Sciences_ 106, no. 1 (2009): 280–5.
 
-Smukalla, S., M. Caldara, et al. "{{% resource_link "be9d35b0-8d94-4e31-9528-0c77abef5d6b" "FLO1 Is a Variable Green Beard Gene that Drives Biofilm-like Cooperation in Budding Yeast" %}}." _Cell_ 135, no. 4 (2008): 726–37.
+Smukalla, S., M. Caldara, et al. "[FLO1 Is a Variable Green Beard Gene that Drives Biofilm-like Cooperation in Budding Yeast](http://dx.doi.org/10.1016/j.cell.2008.09.037)." _Cell_ 135, no. 4 (2008): 726–37.
 
 
 {{< tdclose >}}
@@ -269,9 +269,9 @@ Repression of Gene Transcription in the Absence of Environmental Stimuli
 {{< tdopen >}}
 
 
-Prelich, G., and F. Winston. "{{% resource_link "5879e3f2-2951-49ab-bd18-84abbf2cb857" "Mutations that Suppress the Deletion of An Upstream Activating Sequence in Yeast: Involvement of a Protein Kinase and Histone H3 in Repressing Transcription _in vivo_" %}}." _Genetics_ 135, no. 3 (1993): 665–76.
+Prelich, G., and F. Winston. "[Mutations that Suppress the Deletion of An Upstream Activating Sequence in Yeast: Involvement of a Protein Kinase and Histone H3 in Repressing Transcription _in vivo_](http://www.ncbi.nlm.nih.gov/pubmed/8293972)." _Genetics_ 135, no. 3 (1993): 665–76.
 
-Garcia-Bassets, I., Y. S. Kwon, et al. "{{% resource_link "0c236184-28a0-45ad-8aab-69541ba38e73" "Histone Methylation-Dependent Mechanisms Impose Ligand Dependency for Gene Activation by Nuclear Receptors" %}}." _Cell_ 128, no. 3 (2007): 505–18.
+Garcia-Bassets, I., Y. S. Kwon, et al. "[Histone Methylation-Dependent Mechanisms Impose Ligand Dependency for Gene Activation by Nuclear Receptors](http://dx.doi.org/10.1016/j.cell.2006.12.038)." _Cell_ 128, no. 3 (2007): 505–18.
 
 
 {{< tdclose >}}
@@ -293,9 +293,9 @@ Environmental Control of Cellular Lifespan
 {{< tdopen >}}
 
 
-Lin, S. J., M. Kaeberlein, et al. "{{% resource_link "6c02c54c-ebcb-4c1b-a7a6-cf5029aaa0e0" "Calorie Restriction Extends _Saccharomyces cerevisiae_ Lifespan by Increasing Respiration" %}}." _Nature_ 418 (2002): 344–8.
+Lin, S. J., M. Kaeberlein, et al. "[Calorie Restriction Extends _Saccharomyces cerevisiae_ Lifespan by Increasing Respiration](http://dx.doi.org/10.1038/nature00829)." _Nature_ 418 (2002): 344–8.
 
-Dang, W., K. K. Steffen, et al. "{{% resource_link "65665470-d893-45e0-b2b1-61d30cc87a8d" "Histone H4 Lysine 16 Acetylation Regulates Cellular Lifespan" %}}." _Nature_ 459 (2009): 802–7.
+Dang, W., K. K. Steffen, et al. "[Histone H4 Lysine 16 Acetylation Regulates Cellular Lifespan](http://dx.doi.org/10.1038/nature08085)." _Nature_ 459 (2009): 802–7.
 
 
 {{< tdclose >}}
@@ -317,7 +317,7 @@ Part 1: Germ Cell Differentiation in Mammals
 {{< tdopen >}}
 
 
-Lin, Y., M. E. Gill, et al. "{{% resource_link "b3fce0d6-bd99-4746-a5cc-2bf51b29257e" "Germ Cell-intrinsic and -Extrinsic Factors Govern Meiotic Initiation in Mouse Embryos" %}}." _Science_ 322 (2008): 1685–7.
+Lin, Y., M. E. Gill, et al. "[Germ Cell-intrinsic and -Extrinsic Factors Govern Meiotic Initiation in Mouse Embryos](http://www.ncbi.nlm.nih.gov/pubmed/19074348)." _Science_ 322 (2008): 1685–7.
 
 
 {{< tdclose >}}
@@ -337,7 +337,7 @@ Part 2: Growth pathways in disease and development
 
 {{< tdclose >}}
 {{< tdopen >}}
-McCoy, M. S., J. J. Toole, et al. "{{% resource_link "cb713798-a40a-4e08-8975-27a55354a358" "Characterization of a Human Colon/Lung Carcinoma Oncogene" %}}." _Nature_ 302, no. 5903 (1983): 79–81.
+McCoy, M. S., J. J. Toole, et al. "[Characterization of a Human Colon/Lung Carcinoma Oncogene](http://www.ncbi.nlm.nih.gov/pubmed/6298638)." _Nature_ 302, no. 5903 (1983): 79–81.
 {{< tdclose >}}
 
 {{< trclose >}}
